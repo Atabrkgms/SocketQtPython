@@ -18,3 +18,5 @@ OpenCV kütüphanesi kurulumu:
 
 
 
+** QTClientSocket adlı dosyada Qt ile yazılmış client socket tarafı kodları bulunmaktadır. 
+** pythonServerSocket adlı dosyada Python ile yzılmış server tarafı kodu ve sembol tespiti kodu yer almaktadır.
