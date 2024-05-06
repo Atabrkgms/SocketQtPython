@@ -1,0 +1,20 @@
+Sembol Tanıma Kodu Dokümantasyonu 
+
+Bu dokümantasyon, OpenCV ve Python kullanarak sembol tespiti gerçekleştiren programın detaylarını içerir.
+
+Gereksinimler
+Bu programı çalıştırmak için aşağıdaki bileşenler kullanılmıştır:
+-Python 3.x
+-OpenCV kütüphanesi
+
+Kurulum
+Python kurulumu:
+	-sudo apt update
+	-sudo apt install python3
+	-sudo apt install python3-pip
+
+OpenCV kütüphanesi kurulumu:
+	-sudo apt install libopencv-dev python3-opencv
+
+
+
